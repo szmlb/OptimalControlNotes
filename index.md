@@ -48,13 +48,14 @@ $$
 \end{eqnarray}
 $$
 
+A linear equation can be described as:
 $$
 \begin{eqnarray}
 \begin{bmatrix}
 a & b
 \end{bmatrix}
 \begin{bmatrix}
-x & y
+x \\ y
 \end{bmatrix}
 =
 \begin{bmatrix}
