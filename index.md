@@ -47,3 +47,20 @@ $$
 &=& (a+a)+(a+a)
 \end{eqnarray}
 $$
+
+$$
+\begin{eqnarray}
+\begin{bmatrix}
+a & b
+\end{bmatrix}
+\begin{bmatrix}
+x & y
+\end{bmatrix}
+=
+\begin{bmatrix}
+x & y
+\end{bmatrix}
+\end{eqnarray}
+$$
+
+
